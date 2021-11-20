@@ -1,3 +1,3 @@
 # markdown-preview
 
-![Screenshot of website](https://raw.githubusercontent.com/exece/mark-down/main/blob/main/markdown-preview.JPG)
+![Screenshot of website](https://raw.githubusercontent.com/exece/markdown-preview/blob/main/markdown-preview.JPG)
